@@ -1,3 +1,5 @@
+<img width="1480" height="755" alt="Truncated Policy Iteration" src="https://github.com/user-attachments/assets/ecdac452-9c1d-4701-81de-d9b8a94a85e8" />
+
 # 🧊 FrozenLake — Truncated Policy Iteration
 
 > Tài liệu hướng dẫn dành cho **người mới (beginner / fresher)** và cho chính mình khi đọc lại sau này.
